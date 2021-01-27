@@ -1,4 +1,4 @@
-baseURL = "https://diyruz.github.io/catalog/"
+baseURL = "https://diyruz.github.io/"
 languageCode = "en-us"
 title = "DIY zigbee devices"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
