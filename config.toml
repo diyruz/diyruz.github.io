@@ -4,5 +4,7 @@ title = "DIY zigbee devices"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 disqusShortname = "diyruz"
 canonifyURLs = true
+googleAnalytics = "G-B6LYD00LWS"
+
 [params]
     site_logo = "/img/zigbee.jpg"
