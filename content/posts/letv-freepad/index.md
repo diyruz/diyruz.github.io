@@ -56,7 +56,7 @@ Here is how the device attached to the [SLS Gateway](https://slsys.github.io/Gat
    for DIY flashing adapter.
    
 
- - [Freepad firmware releases](https://github.com/diyruz/freepad/releases)  
+ - [Freepad firmware releases](https://github.com/diyruz/freepad/releases/latest)  
    choose firmware hex file with __LeTV__ suffix.  
 
 
