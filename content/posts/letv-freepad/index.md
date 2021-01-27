@@ -12,6 +12,8 @@ tags: ["Opensource firmware", "Freepad", "cc2530"]
 Some time ago, digging TaoBao, I've found an interesting miniature ZigBee remote control keypad with eight buttons.
 As this device is powered by a CC2530 chip, an idea appeared in my head to flash it with a great [freepad](https://github.com/diyruz/freepad/) firmware, which was used in my previous remote controls.
 
+UPD: This keypad has appeared on [Aliexpress](https://aliexpress.ru/item/1005001962088229.html?&sku_id=12000018238549831)
+
 Keypad has 8 buttons, two-colored led, and is powered by CR2032 lithium cell.
 
 ![](/img/letv-freepad/freepad_letv_13.png)
