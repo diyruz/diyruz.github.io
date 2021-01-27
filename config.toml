@@ -13,5 +13,6 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-    site_logo = "/img/zigbee.jpg"
+    site_logo = "/img/diyruz.png"
     github="https://github.com/diyruz"
+    favicon = "/img/favicon.ico"
