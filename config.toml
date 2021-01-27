@@ -1,6 +1,6 @@
 baseURL = "https://diyruz.github.io/catalog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "DIY zigbee devices"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 [params]
