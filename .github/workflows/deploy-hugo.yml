@@ -26,10 +26,8 @@ jobs:
       - uses: actions/checkout@v2
         with:
           submodules: true
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+      - name: Update submodules
+        run: git submodule update --remote --merge
 
       - name: Hugo setup
         # You may pin to the exact commit or the version.
