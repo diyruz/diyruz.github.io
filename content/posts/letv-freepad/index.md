@@ -4,9 +4,6 @@ date: 2020-11-12T12:48:30+08:00
 draft: false
 tags: ["Opensource firmware", "Freepad", "cc2530"]
 ---
-[Original post by Jager](https://modkam.ru/?p=1791)  
-
-
 ![](/img/letv-freepad/freepad_letv_12.png)
 
 Some time ago, digging TaoBao, I've found an interesting miniature ZigBee remote control keypad with eight buttons.
@@ -52,4 +49,16 @@ Here is how the device attached to the [SLS Gateway](https://slsys.github.io/Gat
 ![](/img/letv-freepad/freepad_letv_9.png)
 ![](/img/letv-freepad/freepad_letv_11.png)
 
-Here is the [DXF-file](https://www.dropbox.com/s/y3p7kqxyiqmid25/LeTV_pogopin.dxf?dl=0) for DIY flashing adapter.
+[Original post by Jager](https://modkam.ru/?p=1791)
+
+### Links
+ - [DXF-file](https://www.dropbox.com/s/y3p7kqxyiqmid25/LeTV_pogopin.dxf?dl=0)  
+   for DIY flashing adapter.
+   
+
+ - [Freepad firmware releases](https://github.com/diyruz/freepad/releases)  
+   choose firmware hex file with __LeTV__ suffix.  
+
+
+ - [Flash instruction (in Russian)](https://zigbee.wiki/books/%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B8/page/%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B0-cc2531cc2530)  
+   In Russian for now, but links and pictures are not less useful.
