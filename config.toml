@@ -2,7 +2,7 @@ baseURL = "https://diyruz.github.io/catalog/"
 languageCode = "en-us"
 title = "DIY zigbee devices"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-
+disqusShortname = "diyruz"
+canonifyURLs = true
 [params]
-    commentoEnable = true
-    site_logo = "img/zigbee.jpg"
+    site_logo = "/img/zigbee.jpg"
