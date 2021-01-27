@@ -27,7 +27,7 @@ jobs:
         with:
           submodules: true
       - name: Update submodules
-        run: git submodule update --remote --merge
+        run: git submodule update --remote
 
       - name: Hugo setup
         # You may pin to the exact commit or the version.
