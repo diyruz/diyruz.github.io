@@ -1,5 +1,5 @@
 ---
-title: "CO2(carbon dioxide) Zigbee sensor"
+title: "CO2 (carbon dioxide) Zigbee sensor"
 date: 2021-01-27T12:48:30+08:00
 draft: false
 ---
