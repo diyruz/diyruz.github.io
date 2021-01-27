@@ -41,7 +41,7 @@ As you can see, contacts are located in a pretty chaotic order. I don't wish to 
 
 ![](/img/letv-freepad/freepad_letv_8.png)
 
-The only thing you need to do - to upload the modified by [@xyzroe](https://t.me/xyzroe) version of freepad [firmware](https://github.com/diyruz/freepad/) with any 
+The only thing you need to do is to upload the modified by [@xyzroe](https://t.me/xyzroe) version of freepad [firmware](https://github.com/diyruz/freepad/) with any 
 situated flashing [method](https://zigbee.wiki/books/%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B8/page/%D0%BF%D1%80%D0%BE%D1%88%D0%B8%D0%B2%D0%BA%D0%B0-cc2531cc2530).
 Zigbee2mqtt converter file is included in the package archive.
 
