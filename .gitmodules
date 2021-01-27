@@ -1,0 +1,3 @@
+[submodule "projects/AirSense"]
+	path = projects/AirSense
+	url = https://github.com/diyruz/AirSense.git
