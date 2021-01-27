@@ -5,6 +5,13 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 disqusShortname = "diyruz"
 canonifyURLs = true
 googleAnalytics = "G-B6LYD00LWS"
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
     site_logo = "/img/zigbee.jpg"
+    github="https://github.com/diyruz"
