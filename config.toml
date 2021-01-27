@@ -4,5 +4,5 @@ title = "DIY zigbee devices"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 [params]
-  commentoEnable = true
-   site_logo = "img/zigbee.jpg"
+    commentoEnable = true
+    site_logo = "img/zigbee.jpg"
