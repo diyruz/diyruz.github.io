@@ -7,7 +7,7 @@ canonifyURLs = true
 googleAnalytics = "UA-41771035-5"
 enableRobotsTXT = true
 
-staticDir = ["projects", "static"]
+staticDir = ["static", "projects/freepad", "projects/AirSense"]
 
 [sitemap]
   changefreq = "monthly"
