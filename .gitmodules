@@ -7,3 +7,6 @@
 [submodule "projects/geiger"]
 	path = projects/geiger
 	url = https://github.com/diyruz/geiger.git
+[submodule "projects/flower"]
+	path = projects/flower
+	url = https://github.com/diyruz/flower.git
