@@ -1,3 +1,6 @@
 [submodule "projects/AirSense"]
 	path = projects/AirSense
 	url = https://github.com/diyruz/AirSense.git
+[submodule "projects/freepad"]
+	path = projects/freepad
+	url = https://github.com/diyruz/freepad.git
