@@ -7,4 +7,4 @@ featured_image: images/letv-freepad/freepad_letv_13.png
 ---
 [Github](https://github.com/diyruz/freepad)
 
-{{< readfile file="/projects/freepad/REAMD_LETV.md" markdown="true" >}}
+{{< readfile file="/projects/freepad/README_LETV.md" markdown="true" >}}
