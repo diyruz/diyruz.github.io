@@ -39,6 +39,8 @@ jobs:
           # Download (if necessary) and use Hugo extended version. Example: true
           extended: # optional, default is false
       - name: Build
+        env:
+          HUGO_ENV: production
         run: hugo --minify
 
       - run: echo "Deploying to production server on branch $GITHUB_REF"
