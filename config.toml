@@ -7,6 +7,8 @@ canonifyURLs = true
 googleAnalytics = "G-B6LYD00LWS"
 enableRobotsTXT = true
 
+staticDir = ["projects", "static"]
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
