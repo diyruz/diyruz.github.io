@@ -5,4 +5,6 @@ draft: false
 tags: ["Opensource firmware", "cc2530"]
 featured_image: images/geiger.jpg
 ---
+[Github](https://github.com/diyruz/geiger)
+
 {{< readfile file="/projects/geiger/README.md" markdown="true" >}}

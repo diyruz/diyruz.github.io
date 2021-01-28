@@ -5,4 +5,5 @@ draft: false
 tags: ["Opensource firmware", "cc2530"]
 featured_image: images/DIYRuZ_Flower_10.png
 ---
+[Github](https://github.com/diyruz/flower)
 {{< readfile file="/projects/flower/README.md" markdown="true" >}}
