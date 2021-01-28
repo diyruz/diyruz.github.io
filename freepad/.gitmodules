@@ -1,3 +1,0 @@
-[submodule "zstack-lib"]
-	path = zstack-lib
-	url = git@github.com:diyruz/zstack-lib.git
