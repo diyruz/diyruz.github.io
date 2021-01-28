@@ -1,10 +1,10 @@
 ---
-title: "LeTV Zigbee remote"
+title: "FreePad Zigbee remote"
 date: 2021-01-27T12:48:30+08:00
 draft: false
 tags: ["Opensource firmware", "cc2530", "FreePad"]
-featured_image: images/letv-freepad/freepad_letv_13.png
+featured_image: images/zigbee_keypad13.jpg
 ---
-{{< readfile file="/projects/freepad/REAMD_LETV.md" markdown="true" >}}
+{{< readfile file="/projects/freepad/README.md" markdown="true" >}}
 
 
