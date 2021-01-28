@@ -4,7 +4,7 @@ title = "DIY zigbee devices"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 disqusShortname = "diyruz"
 canonifyURLs = true
-googleAnalytics = "G-WMXJLSMLTS"
+googleAnalytics = "UA-41771035-5"
 enableRobotsTXT = true
 
 staticDir = ["projects", "static"]
