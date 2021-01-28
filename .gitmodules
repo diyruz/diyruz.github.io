@@ -10,3 +10,6 @@
 [submodule "projects/flower"]
 	path = projects/flower
 	url = https://github.com/diyruz/flower.git
+[submodule "projects/reed"]
+	path = projects/reed
+	url = https://github.com/diyruz/reed.git
