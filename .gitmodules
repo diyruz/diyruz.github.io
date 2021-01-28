@@ -4,3 +4,6 @@
 [submodule "projects/freepad"]
 	path = projects/freepad
 	url = https://github.com/diyruz/freepad.git
+[submodule "projects/geiger"]
+	path = projects/geiger
+	url = https://github.com/diyruz/geiger.git
