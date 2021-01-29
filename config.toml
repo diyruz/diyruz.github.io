@@ -7,7 +7,6 @@ canonifyURLs = true
 googleAnalytics = "UA-41771035-5"
 enableRobotsTXT = true
 staticDir = ["static", "projects/freepad", "projects/AirSense", "projects/geiger", "projects/flower", "projects/reed"]
-Paginate = 10
 
 [sitemap]
 changefreq = "monthly"
@@ -18,3 +17,4 @@ filename = "sitemap.xml"
 site_logo = "/img/diyruz.png"
 github = "https://github.com/diyruz"
 favicon = "/img/favicon.ico"
+recent_posts_number = 10
