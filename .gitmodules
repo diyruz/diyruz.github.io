@@ -1,3 +1,6 @@
+[submodule "projects/Zintercom"]
+	path = projects/Zintercom
+	url = https://github.com/diyruz/Zintercom.git
 [submodule "projects/AirSense"]
 	path = projects/AirSense
 	url = https://github.com/diyruz/AirSense.git
