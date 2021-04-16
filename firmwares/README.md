@@ -1,1 +1,0 @@
-Downalod from github [releases](https://github.com/diyruz/reed/releases)

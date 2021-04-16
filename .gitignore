@@ -15,7 +15,6 @@
 **/settings/*.dni
 **/settings/*.wsdt
 **/settings/*.wspos
-**/settings/*.dnx
 
 # IAR Debug Exe
 **/CoordinatorEB/Exe/
@@ -49,11 +48,12 @@ Backup*
 
 # CC2530DB
 
-CC2530DB/CHDTECH_DEV
-CC2530DB/FREEPAD*
-CC2530DB/flower
-CC2530DB/DIYRuZ_*
+CC2530DB/CHDTECH_DEV*
+
+CC2530DB/Zintercom*
+
 Source/version.c
 !.vscode/
 .vscode/settings.json
-firmwares/*.hex
+firmwares/*
+
